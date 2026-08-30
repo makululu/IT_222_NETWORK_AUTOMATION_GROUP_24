@@ -8,7 +8,8 @@ IT 222 – Assignment 24: Transport Ticketing Network
 |MAKULULU SAGUDA MASWEKO    |           | 2024/0467           |
 |FABIAN PHILIBERT MADILISHA |           |2024/1777            |
 |GLORY WILFRED WILSON       |           |2024/1675            |
-|DODATH EFREM NG'ONG'ONALE  |           |2024/0274            |
+|DEODATH EFREM NG'ONG'ONALE |           |2024/0274            |
+|MULOKOZI ROBERT LEONARD    |           |2024/0553            |
 
 
 ---
