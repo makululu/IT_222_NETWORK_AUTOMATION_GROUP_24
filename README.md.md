@@ -9,7 +9,6 @@ IT 222 – Assignment 24: Transport Ticketing Network
 |FABIAN PHILIBERT MADILISHA |           |2024/1777            |
 |GLORY WILFRED WILSON       |           |2024/1675            |
 |DEODATH EFREM NG'ONG'ONALE |           |2024/0274            |
-|MULOKOZI ROBERT LEONARD    |           |2024/0553            |
 
 
 ---
